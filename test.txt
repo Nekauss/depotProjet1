@@ -1,2 +1,3 @@
 fichier test
-deuz
+deuxième ligne écrite localement
+troisième ligne
